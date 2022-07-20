@@ -1,3 +1,3 @@
 # git_test
-git testing ground
+git testing ground\n
 Hello Odin!
